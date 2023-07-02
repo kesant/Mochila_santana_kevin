@@ -1,0 +1,5 @@
+Direccion ip privada: 10.0.2.15 
+Direccion ip publica :102.177.167.218 
+mascara de subred : 255.255.255.0
+Es diferente a la ip publica y privada de nuestra maquina host ?
+
